@@ -1,0 +1,44 @@
+az/404.ftl
+  h_b8083a6aa9ef86 15-27
+az/500.ftl
+  h_b8083a6aa9ef86 5-6,10-14
+az/brands.ftl
+  h_b8083a6aa9ef86 20-22,54-63,69-72,75-77,79,81-85,109,117,128-130
+az/download_button.ftl
+  h_b8083a6aa9ef86 23-53
+az/firefox/all.ftl
+  h_b8083a6aa9ef86 7-89,98-101
+az/firefox/browsers.ftl
+  h_b8083a6aa9ef86 7-26
+az/firefox/channel.ftl
+  h_b8083a6aa9ef86 57
+az/firefox/developer.ftl
+  h_b8083a6aa9ef86 10,52-53,64-68
+az/firefox/download/platform.ftl
+  h_b8083a6aa9ef86 16-71
+az/firefox/enterprise.ftl
+  h_b8083a6aa9ef86 7,9-28
+az/firefox/installer-help.ftl
+  h_b8083a6aa9ef86 7-15,17-32
+az/firefox/whatsnew/developer/evergreen.ftl
+  h_b8083a6aa9ef86 9-23
+az/fxa_form.ftl
+  h_b8083a6aa9ef86 5-6
+az/newsletter_form.ftl
+  h_b8083a6aa9ef86 5-17,20,24-28,31,37-48
+az/send_to_device.ftl
+  h_b8083a6aa9ef86 10-11
+az/ui.ftl
+  h_b8083a6aa9ef86 10,20-22,26-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3acc2167d628a76eff5c9671c30bfc84f109278c",
+  "prompts": {},
+  "humans": {
+    "h_b8083a6aa9ef86": {
+      "author": "Emin Mastizada <emin@mastizada.com>"
+    }
+  }
+}
